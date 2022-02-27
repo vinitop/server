@@ -1,0 +1,14 @@
+{
+  "name": "xpenser",
+  "description": "Finance Management App",
+  "keywords": [
+    "setu",
+    "node",
+    "nodejs",
+    "express",
+    "FMA",
+    "Xpenser"
+  ],
+  "website": "https://setu.co",
+  "repository": "https://github.com/vinitop/xpenser"
+}
