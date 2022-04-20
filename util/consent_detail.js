@@ -31,7 +31,7 @@ const createData = (mobileNumber) => {
         unit: "MONTH",
       },
       DataConsumer: {
-          id: "78a86422-5345-499b-9c35-7aaf909ff68e",
+          id: "setu-fiu-id",
       },
       Purpose: {
         Category: {
